@@ -13,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me!
 
 - 🎓 **Computer Science (Honours)** student at **York University**, Lassonde — graduating **2027**
 - 🍜 **Full-Stack Developer (on-call)** for **Pho Ginger**, a real Toronto restaurant — I built & maintain their live ordering platform serving **~50 customers a day** at [gingercuisine.ca](https://gingercuisine.ca/)
