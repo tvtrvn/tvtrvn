@@ -15,7 +15,9 @@
 
 ## 🧑‍💻 About Me!
 
-- 🎓 **Computer Science (Honours)** student at **York University**, Lassonde — graduating **2027**
+- 🎓 **Computer Science (Honours), Co-op** student at **York University**, Lassonde — expected to graduate in **2027**
+- 💼 **Learning Technology & AI Enablement Intern** at **Groupe Bel Canada** (co-op, Jul 2026 – present): SCORM e-learning on the company's learning platform, a Power BI learning-engagement report, and AI enablement for the team
+- 🏊 **SEO & Web Developer** for **Swimingo** via Riipen Labs (Jul–Sep 2026): owned the Florida-expansion web workstream, with [14 Florida pages](https://www.swimingo.com/swim-lessons/fl) live
 - 🍜 **Full-Stack Developer (on-call)** for **Pho Ginger**, a real Toronto restaurant — I built & maintain their live ordering platform serving **~50 customers a day** at [gingercuisine.ca](https://gingercuisine.ca/)
 - 🤖 I orchestrate **Claude Code + MCP agents** to build multi-step automation pipelines (job-search workflow spanning Gmail, Calendar, and GitHub)
 - 🏗️ I like shipping things end-to-end: requirements → PRD → build → security → deploy → maintain
@@ -78,8 +80,8 @@ Production **pickup-ordering platform** for a real Toronto restaurant — live a
 </td>
 <td width="50%">
 
-### 📊 [Portfolio Analytics Dashboard](https://github.com/tvtrvn/portfolio-analytics-dashboard-app)
-Institutional-shape **asset-management terminal**, built solo. 8-table PostgreSQL schema, 10 REST endpoints, and a pure-NumPy engine computing **11 financial metrics from first principles** (Sharpe, max drawdown, VaR/CVaR, beta) across 34 securities and ~850 trading days.
+### 📊 [Portfolio Analytics Dashboard](https://github.com/tvtrvn/portfolio-analytics-dashboard)
+Institutional-shape **asset-management terminal**, built solo. 8-table PostgreSQL schema, 18 REST endpoints, and a pure-NumPy engine computing **11 financial metrics from first principles** (Sharpe, max drawdown, VaR/CVaR, beta) across 4 sample portfolios over 32 simulated securities.
 
 `React` `FastAPI` `PostgreSQL` `NumPy` `Redux Toolkit`
 
@@ -88,8 +90,8 @@ Institutional-shape **asset-management terminal**, built solo. 8-table PostgreSQ
 <tr>
 <td width="50%">
 
-### 📈 [Historical Trade Scenario Simulator](https://github.com/tvtrvn/historical-trade-sim-app)
-Replay any investment decision against **real historical price data** from **Tiingo + Yahoo Finance**. Multi-source data pipeline with a daily cron workflow and a **76-test** backend suite.
+### 📈 [Historical Trade Scenario Simulator](https://github.com/tvtrvn/historical-trade-sim)
+Replay lump-sum and dollar-cost-averaging decisions on **real price history from 2010** for **12 stocks and ETFs**, from **Tiingo with a Yahoo Finance fallback**. Daily cron workflow and a **76-test** backend suite. Live at [historical-trade-sim.vercel.app](https://historical-trade-sim.vercel.app).
 
 `Python` `FastAPI` `Pytest` `PostgreSQL`
 
@@ -97,7 +99,7 @@ Replay any investment decision against **real historical price data** from **Tii
 <td width="50%">
 
 ### 🥗 [FridgeFit — Mobile App](https://github.com/tvtrvn/FridgeFit-app)
-iOS + Android app *(in progress)* — cook from what's in your fridge. Recipe data from TheMealDB, nutrition from USDA FoodData Central, fully typed forms and local persistence.
+iOS + Android app *(not yet released: 6 of 8 milestones built)* — cook from what's in your fridge. Recipe data from TheMealDB, fully typed forms and local persistence.
 
 `React Native` `Expo` `TypeScript` `Zustand`
 
@@ -142,4 +144,4 @@ I'm always open to new projects, internships, and ideas worth building.
   <img src="https://komarev.com/ghpvc/?username=tvtrvn&color=D4A574&style=flat-square" alt="Profile Views"/>
 </p>
 
-<!-- Profile README for tvtrvn · refreshed 2026-06-23 -->
+<!-- Profile README for tvtrvn · refreshed 2026-10-01 -->
